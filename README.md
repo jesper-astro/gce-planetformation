@@ -4,4 +4,4 @@ Integrates planet formation while tracking the composition of planets based on s
 
 Based on Nielsen et al. (in prep)
 
-For examples, see the example notebook
+For examples, see the example notebook example.ipynb
