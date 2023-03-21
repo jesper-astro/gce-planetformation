@@ -105,7 +105,7 @@ if sun:
 
 else:
     
-    init_abun = pd.read_csv("./{}.csv".format(input_name))
+    init_abun = pd.read_csv("./input_data/{}.csv".format(input_name))
 
     star_names = init_abun["name"].values.astype("S")
     N_star = len(init_abun)
@@ -208,7 +208,7 @@ N_species = len(names)
 #######################################################################
 #Create output file
 #######################################################################
-output_dir = "data/"+output_name
+output_dir = "output_data/"+output_name
 output_file = os.path.join(output_dir,"output.h5")
 
 if not os.path.exists(output_dir):

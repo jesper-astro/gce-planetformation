@@ -1,0 +1,2 @@
+N_grid;N_bodies;input_name;output_name;sun;overwrite;store_full;iso;free_iron;carbon_grain;viscous_heating;constant_flux;evap;grid;t_low;r_low;dt;M_0;St;delta;v_f
+100;10000;mock_example;mock_example;0;1;0;bitsch;1;1;0;0;1;0;0.01;0.5;0.001;0.01;0.01;0.0001;2
