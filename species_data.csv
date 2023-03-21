@@ -1,0 +1,21 @@
+species;density;mass;T-range;temp;reference (temperature);reference (density)
+C-O;870;28;All;20;Lodders;luna et al (2022)
+C-O2;1600;44;All;70;Lodders;Maass & Barnes (1926)
+H2-O;997;18;All;180;Lodders;
+Fe-S;4840;88;<650;0;Fegley;Wiki
+C-H4;920;16;All;30;Lodders;
+Si-O;2130;44;All;1;Ferguson & Nuth (2008);Wiki
+H2;1;2;All;1;;
+Fe3-O4;5170;232;180-300;0;Fegley;Wiki
+Mg-Si-O3;3200;100;180-1380;0;Fegley;Wiki
+Mg2-Si-O4;3275;140;180-1380;0;Fegley;Wiki
+Fe2-Si-O4;4390;204;300-400;0;Fegley;Wiki
+Si-O2;2650;60;<1380;0;;Wiki
+H2-S;1300;34;>650;112;Stull 1947;Zhou et al. (2018) https://www.osti.gov/pages/servlets/purl/1476093
+Fe;7874;56;>400;1350;Fegley/GGChem;
+Mg;1738;24;?;773;Metallurgical Thermochemistry 5th edition p 366 (1979);
+He;1;4;All;1;;
+Si;2330;28;?;1842;Stull 1942;
+N-H3;880;17;All;90;Lodders;Satorre (2013)
+N2;850;28;All;20;Lodders;Satorre (2004)
+C;2260;12;All;626;Lodders;
